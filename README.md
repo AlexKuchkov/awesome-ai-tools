@@ -76,6 +76,8 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Animoto        | AI slideshow & promo video maker    | ⚠️ Limited| [animoto.com](https://animoto.com) |
 
 
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool that automatically finds the best moments in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels. Perfect for streamers, podcasters, and YouTubers.
+
 ## Design & Creativity
 
 | Tool           | Use Case                          | Free Plan | Link                             |
