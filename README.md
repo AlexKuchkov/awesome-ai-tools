@@ -60,6 +60,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Murf.ai          | Narration and voiceovers               | ❌ Paid       | [murf.ai](https://www.murf.ai) |
 | Replica Studios  | Voiceovers for games & characters      | ⚠️ Limited| [replicastudios.com](https://www.replicastudios.com) |
 | Narakeet         | Text to MP3 and video voiceover        | ✅ Free       | [narakeet.com](https://www.narakeet.com) |
+| voicetoinstrument.com | Convert voice to instrumental tracks using AI | ⚠️ Limited | [voicetoinstrument.com](https://voicetoinstrument.com) |
 
 
 ## AI Video Creation
