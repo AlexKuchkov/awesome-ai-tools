@@ -47,6 +47,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Writesonic     | SEO blog writing, ads                  | ✅ Free       | [writesonic.com](https://writesonic.com) |
 | Notion AI      | Project notes, docs                    | ⚠️ Limited| [notion.so](https://www.notion.so/product/ai) |
 | Rytr           | Quick short-form content               | ✅ Free       | [rytr.me](https://rytr.me) |
+| MindMap AI           | AI powered mindmapping tool              | ✅ Free       | [mindmapai.app](https://mindmapai.app/ai-mindmap-maker) |
 
 
 ## Text to MP3 / Speech
