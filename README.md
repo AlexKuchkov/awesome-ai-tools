@@ -110,6 +110,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Tome            | AI slide deck creation           | ✅ Free       | [tome.app](https://tome.app) |
 | Gamma App       | Presentation + docs generator    | ✅ Free       | [gamma.app](https://gamma.app) |
 | Adept AI        | Multi-action assistant           | ❌ Paid       | [adept.ai](https://www.adept.ai) |
+| Cyber Collector | Download TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos via Telegram bot | ✅ Free | [cybercollector.hitkey.io](https://cybercollector.hitkey.io) |
 
 
 
