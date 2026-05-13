@@ -86,6 +86,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Firefly (Adobe)| Photoshop generative fill         | ⚠️ Limited| [adobe.com](https://www.adobe.com/sensei/generative-ai.html) |
 | Leonardo AI    | AI concept art & game visuals     | ⚠️ Limited| [leonardo.ai](https://leonardo.ai) |
 | Remove.bg      | Background remover using AI       | ✅ Free       | [remove.bg](https://www.remove.bg) |
+| Aurcue         | AI personal styling guidance from a photo | ⚠️ Limited| [aurcue.com](https://www.aurcue.com) |
 
 
 ## Productivity & Automation
@@ -141,6 +142,5 @@ Always review each tool's official site for the latest terms and features.
 
 Curated with ❤️ by Alex  
 Inspired by the awesome open-source and QA/testing communities.
-
 
 
