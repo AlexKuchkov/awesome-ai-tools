@@ -86,6 +86,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Firefly (Adobe)| Photoshop generative fill         | ⚠️ Limited| [adobe.com](https://www.adobe.com/sensei/generative-ai.html) |
 | Leonardo AI    | AI concept art & game visuals     | ⚠️ Limited| [leonardo.ai](https://leonardo.ai) |
 | Remove.bg      | Background remover using AI       | ✅ Free       | [remove.bg](https://www.remove.bg) |
+| LandscapioAI   | AI landscape design from yard photos | ✅ Free       | [landscapioai.com](https://www.landscapioai.com/) |
 
 
 ## Productivity & Automation
