@@ -74,6 +74,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Descript       | Edit audio + video with transcript  | ⚠️ Limited| [descript.com](https://www.descript.com) |
 | Lumen5         | Blog to video content               | ⚠️ Limited| [lumen5.com](https://lumen5.com) |
 | Animoto        | AI slideshow & promo video maker    | ⚠️ Limited| [animoto.com](https://animoto.com) |
+| ImagineClip    | AI social clips and avatar videos   | ⚠️ Limited| [imagineclip.com](https://imagineclip.com?ref=alexkuchkov-awesome-ai-tools) |
 
 
 ## Design & Creativity
@@ -141,6 +142,5 @@ Always review each tool's official site for the latest terms and features.
 
 Curated with ❤️ by Alex  
 Inspired by the awesome open-source and QA/testing communities.
-
 
 
