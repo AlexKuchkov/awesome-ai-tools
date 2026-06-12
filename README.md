@@ -47,6 +47,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Writesonic     | SEO blog writing, ads                  | ✅ Free       | [writesonic.com](https://writesonic.com) |
 | Notion AI      | Project notes, docs                    | ⚠️ Limited| [notion.so](https://www.notion.so/product/ai) |
 | Rytr           | Quick short-form content               | ✅ Free       | [rytr.me](https://rytr.me) |
+| CreatorSkills  | AI skills marketplace for content creators (YouTube, sponsorships, growth) | ❌ Paid | [creatorskills.co](https://creatorskills.co) |
 
 
 ## Text to MP3 / Speech
