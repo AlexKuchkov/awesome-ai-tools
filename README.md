@@ -45,6 +45,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Jasper         | Long-form marketing content            | ⚠️ Limited| [jasper.ai](https://www.jasper.ai) |
 | Copy.ai        | Marketing & email copy                 | ✅ Free       | [copy.ai](https://www.copy.ai) |
 | Writesonic     | SEO blog writing, ads                  | ✅ Free       | [writesonic.com](https://writesonic.com) |
+| NotFair        | Open-source Claude Code skills for SEO, Google Ads, and Meta Ads; connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | ✅ Free       | [github.com/nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) |
 | Notion AI      | Project notes, docs                    | ⚠️ Limited| [notion.so](https://www.notion.so/product/ai) |
 | Rytr           | Quick short-form content               | ✅ Free       | [rytr.me](https://rytr.me) |
 
