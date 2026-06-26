@@ -31,6 +31,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Tool             | Description                        | Free Plan | Link                                |
 |------------------|------------------------------------|-----------|-------------------------------------|
 | GitHub Copilot   | IDE assistant                      | ❌ Paid       | [github.com/features/copilot](https://github.com/features/copilot) |
+| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — | — |
 | CodeWhisperer     | Amazon dev assistant              | ✅ Free       | [aws.amazon.com/codewhisperer](https://aws.amazon.com/codewhisperer/) |
 | Cursor           | Full AI coding IDE                 | ⚠️ Limited| [cursor.so](https://www.cursor.so) |
 | Codium AI        | AI code analysis/test generation   | ✅ Free       | [codium.ai](https://www.codium.ai) |
