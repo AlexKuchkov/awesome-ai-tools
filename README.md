@@ -83,6 +83,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | DALL·E         | AI image generation               | ⚠️ Limited| [openai.com/dall-e](https://openai.com/dall-e) |
 | Midjourney     | Artistic image creation           | ❌ Paid       | [midjourney.com](https://www.midjourney.com) |
 | Canva AI       | Magic tools for editing & writing | ✅ Free        | [canva.com/ai](https://www.canva.com/ai/) |
+| ClearCrowds    | AI photo cleanup and object removal | ✅ Free       | [clearcrowds.com](https://www.clearcrowds.com/) |
 | Firefly (Adobe)| Photoshop generative fill         | ⚠️ Limited| [adobe.com](https://www.adobe.com/sensei/generative-ai.html) |
 | Leonardo AI    | AI concept art & game visuals     | ⚠️ Limited| [leonardo.ai](https://leonardo.ai) |
 | Remove.bg      | Background remover using AI       | ✅ Free       | [remove.bg](https://www.remove.bg) |
@@ -141,6 +142,5 @@ Always review each tool's official site for the latest terms and features.
 
 Curated with ❤️ by Alex  
 Inspired by the awesome open-source and QA/testing communities.
-
 
 
