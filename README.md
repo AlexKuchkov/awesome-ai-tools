@@ -31,7 +31,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Tool             | Description                        | Free Plan | Link                                |
 |------------------|------------------------------------|-----------|-------------------------------------|
 | GitHub Copilot   | IDE assistant                      | ❌ Paid       | [github.com/features/copilot](https://github.com/features/copilot) |
-| CodeWhisperer     | Amazon dev assistant              | ✅ Free       | [aws.amazon.com/codewhisperer](https://aws.amazon.com/codewhisperer/) |
+| Amazon Q Developer | Amazon coding assistant            | ✅ Free       | [aws.amazon.com/q/developer](https://aws.amazon.com/q/developer/) |
 | Cursor           | Full AI coding IDE                 | ⚠️ Limited| [cursor.so](https://www.cursor.so) |
 | Codium AI        | AI code analysis/test generation   | ✅ Free       | [codium.ai](https://www.codium.ai) |
 | Tabnine          | Code completion engine             | ⚠️ Limited| [tabnine.com](https://www.tabnine.com) |
@@ -98,6 +98,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Trello + Butler AI | Workflow automation            | ✅ Free       | [trello.com](https://trello.com) |
 | Magical        | Autofill, quick responses          | ✅ Free       | [magical.ai](https://www.magical.ai) |
 | Tactiq         | AI meeting transcription (Zoom, GMeet) | ✅ Free | [tactiq.io](https://tactiq.io) |
+| Xquik          | X (Twitter) data workflows for AI agents | ❌ Paid | [docs.xquik.com](https://docs.xquik.com) |
 
 
 ## Other Useful Tools
@@ -136,11 +137,12 @@ This list is maintained for informational purposes only.
 Tool descriptions, pricing, and availability may change over time.  
 Always review each tool's official site for the latest terms and features.
 
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+
 
 ## Credits
 
 Curated with ❤️ by Alex  
 Inspired by the awesome open-source and QA/testing communities.
-
 
 
