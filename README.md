@@ -51,6 +51,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 
 ## Text to MP3 / Speech
 
+| [CharaVox](https://charavox.com) | AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM. |
 | Tool             | Use Case                              | Free Plan | Link                                 |
 |------------------|----------------------------------------|-----------|--------------------------------------|
 | ElevenLabs       | Realistic AI voices                    | ⚠️ Limited| [elevenlabs.io](https://www.elevenlabs.io) |
