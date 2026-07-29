@@ -104,6 +104,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 
 | Tool            | Use Case                         | Free Plan | Link                        |
 |-----------------|----------------------------------|-----------|-----------------------------|
+| GPTGeminiGrok.AI | Multi-model chat, image generation, and file analysis | ⚠️ Limited | [trygrokai.asia](https://trygrokai.asia/) |
 | Perplexity AI   | AI-powered factual search        | ✅ Free       | [perplexity.ai](https://www.perplexity.ai) |
 | Phind           | Dev-focused chatbot search       | ✅ Free       | [phind.com](https://www.phind.com) |
 | You.com         | AI-driven private search         | ✅ Free       | [you.com](https://you.com) |
