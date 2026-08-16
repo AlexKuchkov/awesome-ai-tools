@@ -68,6 +68,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 |----------------|-------------------------------------|-----------|--------------------------------------|
 | Synthesia      | AI avatar video                     | ❌ Paid       | [synthesia.io](https://www.synthesia.io) |
 | Pictory        | Blog/article to video               | ⚠️ Limited| [pictory.ai](https://pictory.ai) |
+| videos.social  | Editable faceless video from writing | ✅ Free       | [videos.social](https://videos.social/?utm_source=awesome-ai-tools-alex&utm_medium=directory&utm_campaign=listing-wave-d) |
 | Runway ML      | AI video editing, motion tracking   | ⚠️ Limited| [runwayml.com](https://runwayml.com) |
 | HeyGen         | Realistic talking avatars           | ⚠️ Limited| [heygen.com](https://www.heygen.com) |
 | InVideo        | Social videos, ads                  | ✅ Free       | [invideo.io](https://invideo.io) |
