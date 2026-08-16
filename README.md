@@ -23,6 +23,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Gemini          | Test ideas, reports, summaries         | ✅ Free        | [gemini.google.com](https://gemini.google.com) |
 | Testim          | AI-powered test automation             | ⚠️ Limited| [testim.io](https://www.testim.io) |
 | ReTest          | Smart regression testing               | ✅ Free       | [retest.de](https://retest.de) |
+| Agent QA        | Natural-language web/mobile app testing | ⚠️ Limited | [github.com/vostride/agent-qa](https://github.com/vostride/agent-qa) |
 | Functionize     | Autonomous functional testing          | ❌ Paid       | [functionize.com](https://www.functionize.com) |
 
 
