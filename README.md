@@ -97,6 +97,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Rewind AI      | AI-powered memory for Mac          | ❌ Paid       | [rewind.ai](https://www.rewind.ai) |
 | Trello + Butler AI | Workflow automation            | ✅ Free       | [trello.com](https://trello.com) |
 | Magical        | Autofill, quick responses          | ✅ Free       | [magical.ai](https://www.magical.ai) |
+| BulkPublish    | AI-agent social publishing API + MCP    | ✅ Free tier | [bulkpublish.com](https://www.bulkpublish.com) |
 | Tactiq         | AI meeting transcription (Zoom, GMeet) | ✅ Free | [tactiq.io](https://tactiq.io) |
 
 
@@ -141,6 +142,5 @@ Always review each tool's official site for the latest terms and features.
 
 Curated with ❤️ by Alex  
 Inspired by the awesome open-source and QA/testing communities.
-
 
 
