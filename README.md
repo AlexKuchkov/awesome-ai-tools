@@ -106,6 +106,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 |-----------------|----------------------------------|-----------|-----------------------------|
 | Perplexity AI   | AI-powered factual search        | ✅ Free       | [perplexity.ai](https://www.perplexity.ai) |
 | Phind           | Dev-focused chatbot search       | ✅ Free       | [phind.com](https://www.phind.com) |
+| WSUP AI         | Free AI character chat, no signup | ✅ Free       | [wsupai.app](https://wsupai.app/) |
 | You.com         | AI-driven private search         | ✅ Free       | [you.com](https://you.com) |
 | Tome            | AI slide deck creation           | ✅ Free       | [tome.app](https://tome.app) |
 | Gamma App       | Presentation + docs generator    | ✅ Free       | [gamma.app](https://gamma.app) |
