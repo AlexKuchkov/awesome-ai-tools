@@ -74,6 +74,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Descript       | Edit audio + video with transcript  | ⚠️ Limited| [descript.com](https://www.descript.com) |
 | Lumen5         | Blog to video content               | ⚠️ Limited| [lumen5.com](https://lumen5.com) |
 | Animoto        | AI slideshow & promo video maker    | ⚠️ Limited| [animoto.com](https://animoto.com) |
+| LiveFaceSwap AI | Live webcam face swap and virtual-camera output | ⚠️ Limited (signup trial) | [livefaceswap.ai](https://livefaceswap.ai/) |
 
 
 ## Design & Creativity
