@@ -98,6 +98,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Trello + Butler AI | Workflow automation            | ✅ Free       | [trello.com](https://trello.com) |
 | Magical        | Autofill, quick responses          | ✅ Free       | [magical.ai](https://www.magical.ai) |
 | Tactiq         | AI meeting transcription (Zoom, GMeet) | ✅ Free | [tactiq.io](https://tactiq.io) |
+| Orkas | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. | Open-source; provider costs may apply | [orkas.ai](https://orkas.ai/?source=gh_alexk) |
 
 
 ## Other Useful Tools
