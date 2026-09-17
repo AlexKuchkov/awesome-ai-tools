@@ -74,7 +74,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Descript       | Edit audio + video with transcript  | ⚠️ Limited| [descript.com](https://www.descript.com) |
 | Lumen5         | Blog to video content               | ⚠️ Limited| [lumen5.com](https://lumen5.com) |
 | Animoto        | AI slideshow & promo video maker    | ⚠️ Limited| [animoto.com](https://animoto.com) |
-
+| OrkasVideoStudio | Local-first CLI/MCP video composition, editing and generation from editable plan.json timelines | MIT; source install; optional paid providers | [GitHub](https://github.com/Orkas-AI/Orkas-VideoStudio) |
 
 ## Design & Creativity
 
