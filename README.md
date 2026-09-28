@@ -85,6 +85,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Canva AI       | Magic tools for editing & writing | ✅ Free        | [canva.com/ai](https://www.canva.com/ai/) |
 | Firefly (Adobe)| Photoshop generative fill         | ⚠️ Limited| [adobe.com](https://www.adobe.com/sensei/generative-ai.html) |
 | Leonardo AI    | AI concept art & game visuals     | ⚠️ Limited| [leonardo.ai](https://leonardo.ai) |
+| Raphael AI     | Free text-to-image generator      | ✅ Free       | [raphael.app](https://raphael.app) |
 | Remove.bg      | Background remover using AI       | ✅ Free       | [remove.bg](https://www.remove.bg) |
 
 
