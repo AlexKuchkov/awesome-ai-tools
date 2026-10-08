@@ -110,6 +110,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Tome            | AI slide deck creation           | ✅ Free       | [tome.app](https://tome.app) |
 | Gamma App       | Presentation + docs generator    | ✅ Free       | [gamma.app](https://gamma.app) |
 | Adept AI        | Multi-action assistant           | ❌ Paid       | [adept.ai](https://www.adept.ai) |
+| Auferet          | AI game master for solo text adventures and tabletop RPGs | ⚠️ Limited| [auferet.com](https://auferet.com) |
 
 
 
