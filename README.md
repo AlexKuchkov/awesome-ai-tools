@@ -110,6 +110,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Tome            | AI slide deck creation           | ✅ Free       | [tome.app](https://tome.app) |
 | Gamma App       | Presentation + docs generator    | ✅ Free       | [gamma.app](https://gamma.app) |
 | Adept AI        | Multi-action assistant           | ❌ Paid       | [adept.ai](https://www.adept.ai) |
+| QuietTake | Local RNNoise speech cleanup; WAV export; ≤50 MB and ≤5 min/file | ✅ Free | [noiseremover.site](https://noiseremover.site/) |
 
 
 
