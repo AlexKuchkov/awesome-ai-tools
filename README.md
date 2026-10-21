@@ -92,6 +92,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 
 | Tool           | Use Case                          | Free Plan | Link                             |
 |----------------|-----------------------------------|-----------|----------------------------------|
+| PDFnoted | Browser-first PDF workspace: AI watermark removal & compliance review | Freemium | [pdfnoted.com](https://pdfnoted.com/) |
 | Zapier AI      | AI-driven automation               | ⚠️ Limited| [zapier.com/ai](https://zapier.com/ai) |
 | Notion AI      | Docs, notes, project summaries     | ⚠️ Limited| [notion.so](https://www.notion.so/product/ai) |
 | Rewind AI      | AI-powered memory for Mac          | ❌ Paid       | [rewind.ai](https://www.rewind.ai) |
