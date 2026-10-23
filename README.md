@@ -98,6 +98,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Trello + Butler AI | Workflow automation            | ✅ Free       | [trello.com](https://trello.com) |
 | Magical        | Autofill, quick responses          | ✅ Free       | [magical.ai](https://www.magical.ai) |
 | Tactiq         | AI meeting transcription (Zoom, GMeet) | ✅ Free | [tactiq.io](https://tactiq.io) |
+| JobEmerge      | Job-fit analysis, resume translation, editing, and tracking | ⚠️ Limited | [jobemerge.work](https://www.jobemerge.work) |
 
 
 ## Other Useful Tools
