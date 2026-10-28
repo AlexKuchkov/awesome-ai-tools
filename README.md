@@ -66,6 +66,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 
 | Tool           | Use Case                            | Free Plan | Link                                 |
 |----------------|-------------------------------------|-----------|--------------------------------------|
+| NEON DUO | Two-photo duo dance video generation for consenting adults | ❌ Paid | [a2oliteneon.xyz](https://a2oliteneon.xyz/) |
 | Synthesia      | AI avatar video                     | ❌ Paid       | [synthesia.io](https://www.synthesia.io) |
 | Pictory        | Blog/article to video               | ⚠️ Limited| [pictory.ai](https://pictory.ai) |
 | Runway ML      | AI video editing, motion tracking   | ⚠️ Limited| [runwayml.com](https://runwayml.com) |
