@@ -1,6 +1,7 @@
 # Awesome AI Services & Tools
 A curated, categorized list of AI-powered tools across QA, coding, content, video, audio, design, productivity, and more-with free/limited/paid status noted.
 
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - <strong>Table of Contents</strong>
   - [QA & Testing](#qa--testing)
   - [Coding Assistants](#coding-assistants)
