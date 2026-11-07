@@ -76,6 +76,9 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Animoto        | AI slideshow & promo video maker    | ⚠️ Limited| [animoto.com](https://animoto.com) |
 
 
+| Cyanvid       | Text/image to AI video, credit quotes upfront | ⚠️ Limited| [cyanvid.com](https://cyanvid.com/?utm_source=alexkuchkov-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) |
+| Barz Studio   | Free browser rap lyric video maker (9:16 WebM) | ✅ Free       | [barzvideo.com](https://barzvideo.com/?utm_source=alexkuchkov-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) |
+
 ## Design & Creativity
 
 | Tool           | Use Case                          | Free Plan | Link                             |
