@@ -104,6 +104,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 
 | Tool            | Use Case                         | Free Plan | Link                        |
 |-----------------|----------------------------------|-----------|-----------------------------|
+| Arcmira: YouTube Transcript Search | YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. | ⚠️ Limited | [Arcmira](https://arcmira.com) · [API docs](https://arcmira.com/docs) |
 | Perplexity AI   | AI-powered factual search        | ✅ Free       | [perplexity.ai](https://www.perplexity.ai) |
 | Phind           | Dev-focused chatbot search       | ✅ Free       | [phind.com](https://www.phind.com) |
 | You.com         | AI-driven private search         | ✅ Free       | [you.com](https://you.com) |
